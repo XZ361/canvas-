@@ -4,4 +4,4 @@
 [粒子动态效果](https://wangxiaozhan.github.io/canvas-/canvas.html)
 
 ## JavaScript+canvas用来实现火焰效果
-[火焰效果](https://wangxiaozhan.github.io/canvas-/canvas.html)
+[火焰效果](https://wangxiaozhan.github.io/canvas-/canvas1.html)
